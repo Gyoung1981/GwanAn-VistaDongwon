@@ -1,0 +1,20 @@
+Uri: https://광안센텀비스타동원.com/vtour_publish3/tour.js
+File Name: C:\Users\user\Desktop\광안동원비스타\복제홈피\광안센텀비스타동원.com\vtour_publish3\광안센텀비스타동원.com\vtour_publish3\tour.js
+Content Type: application/javascript
+
+Uri: https://광안센텀비스타동원.com/vtour_publish3/tour1.html
+File Name: C:\Users\user\Desktop\광안동원비스타\복제홈피\광안센텀비스타동원.com\vtour_publish3\광안센텀비스타동원.com\vtour_publish3\tour1.html
+Content Type: text/html
+
+Uri: https://광안센텀비스타동원.com/vtour_publish3/tour1.xml
+File Name: C:\Users\user\Desktop\광안동원비스타\복제홈피\광안센텀비스타동원.com\vtour_publish3\광안센텀비스타동원.com\vtour_publish3\tour1.xml
+Content Type: text/xml
+
+Uri: https://광안센텀비스타동원.com/vtour_publish3/tour2.html
+File Name: C:\Users\user\Desktop\광안동원비스타\복제홈피\광안센텀비스타동원.com\vtour_publish3\광안센텀비스타동원.com\vtour_publish3\tour2.html
+Content Type: text/html
+
+Uri: https://광안센텀비스타동원.com/vtour_publish3/tour2.xml
+File Name: C:\Users\user\Desktop\광안동원비스타\복제홈피\광안센텀비스타동원.com\vtour_publish3\광안센텀비스타동원.com\vtour_publish3\tour2.xml
+Content Type: text/xml
+
